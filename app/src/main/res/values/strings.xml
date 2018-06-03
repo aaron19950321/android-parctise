@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">parcitise-send-change</string>
+    <string name="Pt_send_text">发送字符串</string>
+    <string name="Bt_send">发送</string>
+</resources>
